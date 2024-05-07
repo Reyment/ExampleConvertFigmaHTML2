@@ -23,7 +23,7 @@ This landing page is designed to provide visitors with a captivating introductio
 
 ## Screenshots
 
-![Screenshot 1](/src/images/homepage.png)
+![Screenshot 1](/images/homepagetasty.png)
 *Screenshot 1: Overview of the landing page.*
 
 

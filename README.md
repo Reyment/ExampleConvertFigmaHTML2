@@ -39,7 +39,7 @@ This landing page is designed to provide visitors with a captivating introductio
 To view the landing page locally, follow these steps:
 
 1. Clone the repository:
-   git clone https://github.com/Reyment/ExampleConvertFigmaHTML2.git
+   git clone git@github.com:Reyment/Tasty-Landing-Page.git
    
 3. Navigate to the project directory:
 	cd your-landing-page
